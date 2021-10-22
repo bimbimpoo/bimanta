@@ -3,7 +3,7 @@ author = "DWI SATRIA BIMANTARA"
 bg_image = ""
 date = 2021-10-22T13:00:00Z
 description = ""
-tags = ["", ""]
+tags = [""]
 title = "BIODATA SAYA"
 toc = ""
 
